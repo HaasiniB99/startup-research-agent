@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local Claude Code machine config (not shared)
+.claude/settings.local.json
+
+# Generated Word exports (source of truth is the .md files)
+*.docx
+
+# Secrets / env
+.env
+.env.*
+*.pem
+*.key
