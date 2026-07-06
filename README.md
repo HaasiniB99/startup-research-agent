@@ -46,6 +46,12 @@ glossary/                 # Stage 5 — business & finance vocabulary
 - **India-aware** — it never assumes India and other countries behave the same; it states which one a claim applies to.
 - **Honest about uncertainty** — it separates established facts from general reasoning from unverified claims.
 
+## License
+
+Copyright © 2026 HaasiniB99.
+
+This work is licensed under the **[Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)** license — see [`LICENSE`](LICENSE) for the full text. You may share and adapt the material with attribution, but **not for commercial purposes**.
+
 ## Note
 
 This is a research and learning workspace. The content is educational and reflects research at the time it was written — verify specific figures independently before acting on them. It is not financial, legal, or investment advice.
